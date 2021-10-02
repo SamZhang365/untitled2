@@ -65,7 +65,7 @@ public class ArrayQueueDemo {
  */
 class ArrayQueue {
     /**
-     * 表示数组的最大容量
+     * 表示数组的最大容量 1
      */
     private int maxSize;
     /**
